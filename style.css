@@ -358,7 +358,7 @@ align-items: center;
 .tenth-image{
     width: 300px;
     height: 300px;
-    background-image: url(./tenth\ image.jpg);
+    background-image: url("./tenth\ image.jpg");
     display: flex;
     border-radius: 15px;
 }
